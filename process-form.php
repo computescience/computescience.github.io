@@ -1,6 +1,7 @@
 <?php
 // Set the recipient email address
-$to = "michael.guo002@gmail.com";
+// $to = "michael.guo002@gmail.com";
+$to = "nathan.man@valleychristianschools.org";
 
 // Get the form fields
 $name = $_POST['name'];
